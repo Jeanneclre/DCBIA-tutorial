@@ -4,7 +4,7 @@ product codes during the tutorial
 ## First Exercise
 Read an image, apply a median ITK filter and Display the original image and the filtered image in a VTK renderer.
 
-Run the code :
+### Run the code :
 
 `python3 FirstExercise.py input_filename output_filename`
 
