@@ -70,4 +70,4 @@ median = itk.median_image_filter(image, radius=2)
 
 itk.imwrite(median, output_filename)
 
-os.remove(thresh_filemane)
+#os.remove(thresh_filemane)
