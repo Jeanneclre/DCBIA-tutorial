@@ -10,3 +10,11 @@ Read an image, apply a median ITK filter and Display the original image and the 
 
 input_filename: name of the original image to filter
 output_filename: name the filtered image 
+
+## TutoITK.py
+First time reading and writing with ITK.
+--> Convert Image in Binary one
+
+### Run the code 
+
+`python3 TutoITK.py imageToConvert_filename convertedImage_filename filteredImage_filename`
