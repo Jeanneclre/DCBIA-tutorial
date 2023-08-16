@@ -1,0 +1,6 @@
+/home/luciacev/Desktop/Jeanne/DCBIA-tutorial/cmake-3.27.2-tutorial-source/Step2_build/CMakeFiles/Tutorial.dir
+/home/luciacev/Desktop/Jeanne/DCBIA-tutorial/cmake-3.27.2-tutorial-source/Step2_build/CMakeFiles/edit_cache.dir
+/home/luciacev/Desktop/Jeanne/DCBIA-tutorial/cmake-3.27.2-tutorial-source/Step2_build/CMakeFiles/rebuild_cache.dir
+/home/luciacev/Desktop/Jeanne/DCBIA-tutorial/cmake-3.27.2-tutorial-source/Step2_build/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/luciacev/Desktop/Jeanne/DCBIA-tutorial/cmake-3.27.2-tutorial-source/Step2_build/MathFunctions/CMakeFiles/edit_cache.dir
+/home/luciacev/Desktop/Jeanne/DCBIA-tutorial/cmake-3.27.2-tutorial-source/Step2_build/MathFunctions/CMakeFiles/rebuild_cache.dir

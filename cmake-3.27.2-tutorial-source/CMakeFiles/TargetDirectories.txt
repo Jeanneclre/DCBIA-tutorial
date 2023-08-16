@@ -1,0 +1,17 @@
+/home/luciacev/Desktop/Jeanne/DCBIA-tutorial/cmake-3.27.2-tutorial-source/CMakeFiles/Tutorial.dir
+/home/luciacev/Desktop/Jeanne/DCBIA-tutorial/cmake-3.27.2-tutorial-source/CMakeFiles/test.dir
+/home/luciacev/Desktop/Jeanne/DCBIA-tutorial/cmake-3.27.2-tutorial-source/CMakeFiles/edit_cache.dir
+/home/luciacev/Desktop/Jeanne/DCBIA-tutorial/cmake-3.27.2-tutorial-source/CMakeFiles/rebuild_cache.dir
+/home/luciacev/Desktop/Jeanne/DCBIA-tutorial/cmake-3.27.2-tutorial-source/CMakeFiles/list_install_components.dir
+/home/luciacev/Desktop/Jeanne/DCBIA-tutorial/cmake-3.27.2-tutorial-source/CMakeFiles/install.dir
+/home/luciacev/Desktop/Jeanne/DCBIA-tutorial/cmake-3.27.2-tutorial-source/CMakeFiles/install/local.dir
+/home/luciacev/Desktop/Jeanne/DCBIA-tutorial/cmake-3.27.2-tutorial-source/CMakeFiles/install/strip.dir
+/home/luciacev/Desktop/Jeanne/DCBIA-tutorial/cmake-3.27.2-tutorial-source/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/luciacev/Desktop/Jeanne/DCBIA-tutorial/cmake-3.27.2-tutorial-source/MathFunctions/CMakeFiles/SqrtLibrary.dir
+/home/luciacev/Desktop/Jeanne/DCBIA-tutorial/cmake-3.27.2-tutorial-source/MathFunctions/CMakeFiles/test.dir
+/home/luciacev/Desktop/Jeanne/DCBIA-tutorial/cmake-3.27.2-tutorial-source/MathFunctions/CMakeFiles/edit_cache.dir
+/home/luciacev/Desktop/Jeanne/DCBIA-tutorial/cmake-3.27.2-tutorial-source/MathFunctions/CMakeFiles/rebuild_cache.dir
+/home/luciacev/Desktop/Jeanne/DCBIA-tutorial/cmake-3.27.2-tutorial-source/MathFunctions/CMakeFiles/list_install_components.dir
+/home/luciacev/Desktop/Jeanne/DCBIA-tutorial/cmake-3.27.2-tutorial-source/MathFunctions/CMakeFiles/install.dir
+/home/luciacev/Desktop/Jeanne/DCBIA-tutorial/cmake-3.27.2-tutorial-source/MathFunctions/CMakeFiles/install/local.dir
+/home/luciacev/Desktop/Jeanne/DCBIA-tutorial/cmake-3.27.2-tutorial-source/MathFunctions/CMakeFiles/install/strip.dir
